@@ -3,10 +3,10 @@ import  { useState } from "react";
 const songs = [
     {
         id: 1,
-        title: "Breaching",
+        title: "Keep You Away",
         artist: "EchoBR",
-        url: "/songs/Breaching.wav",
-        duration: "3:45"
+        url: "/songs/Keep You Away.wav",
+        duration: "4:32",
     },
     {
         id: 2,
